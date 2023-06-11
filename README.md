@@ -12,7 +12,7 @@ Book details:
 ![image](https://github.com/TrymoretimeH/LibraryOnline/assets/96780850/88f03e50-683a-4485-b649-45ca328226b8)
 #### Admin view:
 Home view:
-![image](https://github.com/TrymoretimeH/LibraryOnline/assets/96780850/e06f997e-ef1a-4191-8258-5b0f88e6ca1e)
+![image](https://github.com/TrymoretimeH/LibraryOnline/assets/96780850/cecc6c2b-dbf1-488d-bdce-c583df883c6b)
 ------------------------
 Book details:
 ![image](https://github.com/TrymoretimeH/LibraryOnline/assets/96780850/0397d4cc-9ada-4bcb-a20d-97698f03df9d)
